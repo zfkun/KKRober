@@ -1,0 +1,16 @@
+﻿POST /post_register HTTP/1.1
+Host: login.7k7k.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+Accept: */*
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip, deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://login.7k7k.com/register
+Content-Length: 57
+Cookie: Hm_lvt_4f1beaf39805550dd06b5cac412cd19b=1316572284212; rtime30008588=1; ltime30008588=1316572288018; cnzz_eid30008588=68292434-1316424891-; laststate=2; lastac=tiebaadmina; nickname=tiebaadmina; kk=1000003773; email=heamon.guo%40gmail.com; avatar=http%3A%2F%2Fsavatar.7k7kimg.cn%2Fsmall_avatar.png; usertype=1; k7_lastlogin=2011-09-20+10%3A09%3A05; Hm_lpvt_4f1beaf39805550dd06b5cac412cd19b=1316572287996; cnzz_a30008588=1; sin30008588=http%3A//login.7k7k.com/
+Pragma: no-cache
+Cache-Control: no-cache
+
+username=1111111111111&password=testtest&repassword=testtest
